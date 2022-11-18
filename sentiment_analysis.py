@@ -100,27 +100,11 @@ class Sentiment_Analysis:
         
 
 #Testing
-
+'''
 if __name__ == "__main__":
     sa = Sentiment_Analysis()
     sa.populate_headlines()
     sa.run_sentiment_analysis()
     
     display(sa.get_analysis_data())
-
-
-
-    
-
-    
-            
-
-
-
-
-
-
-
-
-
-
+'''
