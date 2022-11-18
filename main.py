@@ -1,5 +1,5 @@
 from alpaca.trading.client import TradingClient
-from config import API_KEY, SECRET_KEY
+from alpaca_config import API_KEY, SECRET_KEY
 
 
 # https://alpaca.markets/docs/trading/getting-started/
